@@ -3,7 +3,7 @@ SoftUni course
 
 The Programming Basics with Python course introduces the core principles of programming:
 
-$/bullet$ Writing simple Python programs
+$\bullet$ Writing simple Python programs
 
 Using variables, data types, and operators
 
