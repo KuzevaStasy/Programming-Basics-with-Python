@@ -5,16 +5,14 @@ The Programming Basics with Python course introduces the core principles of prog
 
 $\bullet$ Writing simple Python programs
 
-Using variables, data types, and operators
+$\bullet$ Using variables, data types, and operators
 
-Working with conditional statements (if, else, elif)
+$\bullet$ Working with conditional statements (if, else, elif)
 
-Loops (for, while)
+$\bullet$ Loops (for, while)
 
-Working with functions and simple problem decomposition
+$\bullet$ Working with functions and simple problem decomposition
 
-Input and output operations
+$\bullet$ Input and output operations
 
-Basic algorithmic thinking and problem-solving
-
-By the end of the course, students will be able to write simple Python programs and solve basic computational problems.
+$\bullet$ Basic algorithmic thinking and problem-solving
